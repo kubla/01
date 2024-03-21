@@ -117,7 +117,7 @@ If you want to run local speech-to-text using Whisper, you must install Rust. Fo
 sudo apt-get install portaudio19-dev ffmpeg cmake
 ```
 
-# Contributers
+# Contributors
 
 [![01 project contributers](https://contrib.rocks/image?repo=OpenInterpreter/01&max=2000)](https://github.com/OpenInterpreter/01/graphs/contributors)
 
